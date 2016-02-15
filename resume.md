@@ -1,15 +1,16 @@
 # Christopher Caplinger
 Software Engineer
 
-> I'm an NYC-based full-stack web developer focused on building innovative web applications. I'm interested in open source > software and making the internet a better place for all. 
+> I'm an NYC-based full-stack web developer focused on building innovative web applications. I'm interested in open source software and making the internet a better place for all. 
 
-> [caplingerc@gmail.com](caplingerc@gmail.com)
-> (614) 499-3676
-> [@unicode_snowman](https://twitter.com/unicode_snowman)
-> [https://github.com/UnicodeSnowman](https://github.com/UnicodeSnowman)
-> http://stackoverflow.com/users/2045061/unicodesnowman
-> https://www.linkedin.com/in/christophercaplinger
-> blahg
+
+- [caplingerc@gmail.com](caplingerc@gmail.com)
+- (614) 499-3676
+- [@unicode_snowman](https://twitter.com/unicode_snowman)
+- [https://github.com/UnicodeSnowman](https://github.com/UnicodeSnowman)
+- http://stackoverflow.com/users/2045061/unicodesnowman
+- https://www.linkedin.com/in/christophercaplinger
+- blahg
 
 
 ### Experience
@@ -35,12 +36,12 @@ Software Engineer
 ### Technical
 | Technology | Details |
 | --- | --- |
-| Javascript | NodeJS, ReactJS, AngularJS, ESNext/ES6, jQuery, Mocha/Jasmine |
-| Ruby       | Ruby on Rails, Sinatra |
-| Git | |
-| HTML/CSS | |
+| Javascript | In-depth experience with NodeJS, ReactJS, AngularJS, ESNext/ES6, jQuery, Mocha/Jasmine |
+| Ruby       | In-depth experience with Ruby on Rails, Sinatra |
+| Git | Git-fluent, in-depth experience with branching, pull requests, (safely) rebasing commits |
+| HTML/CSS | Experience with HTML5 (including canvas, svg), LESS, SASS |
 | Operating Systems | OS X, Linux |
-| Additional Interests | Elm, Clojure(script), Rust |
+| Additional Experience & Interests | Clojure(script), Elm, Rust |
 
 ### Open Source / Organizations
 * ngNYC
