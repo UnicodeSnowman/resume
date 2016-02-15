@@ -23,9 +23,7 @@ Software Engineer
       - HBO
       - Morgan Stanley
       - Memmee (http://www.memmee.com/)
-   * Technologies utilized: Javascript/AngularJS/ReactJS/NodeJS, Ruby/Rails, Python/Flask
-       * Bloomberg (React/Node/Python), HBO, Honest Buildings, Karmic, Memmee, etc.
-       * ReactJS, Redux, AngularJS, Python/Flask, Ruby/Rails
+   * Technologies utilized: Javascript/ReactJS/AngularJS/NodeJS, Ruby/Rails, Python/Flask
 * Rova, Software Developer, January 2012 - August 2013
     * Full-stack software application development for ROVA's Mobile Device Management (MDM) solution, using C#/.NET MVC/ASP .NET and Javascript. 
 * Quixotic Systems, Inc. November 2010 - December 2011
