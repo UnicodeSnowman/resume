@@ -55,5 +55,5 @@ May 2009
 
 ### Good Times
 * Music
-* electronics/pedal building
+* Electronics, building guitar effects pedals
 
